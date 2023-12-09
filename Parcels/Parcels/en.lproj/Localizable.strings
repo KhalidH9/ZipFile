@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Parcels
+
+  Created by خالد on 25/05/1445 AH.
+  
+*/
+
+"track_package" = "Track your package!";
+"enter_tracking_number" = "Please enter your tracking number";
+"check_rates" = "Check Rates";
+"pick_up" = "Pick-Up";
+"special_offers" = "Special Offers";
+"tracking_history" = "Tracking History";
+"see_all" = "See All";
+
+"checkRates" = "Check Rates";
+"calculateShipment" = "Calculate for shipment";
+"notificationPreferences" = "Set notification preferences for your purchases, payment & deliveries.";
+"pickUpPoint" = "Pick up - Point";
+"pickOffPoint" = "Pick Off - Point";
+"weight" = "Weight";
+"quantity" = "Quantity";
+"checkRatesButton" = "Check Rates";
+
+"rates" = "Rates";
+"pickUpPoint" = "Pick up - Point";
+"pickOffPoint" = "Pick Off - Point";
+"shipmentDetails" = "Shipment Details";
+"shipmentType" = "Shipment Type";
+"quantity" = "Quantity";
+"weight" = "Weight";
+"regular" = "Regular";
+"express" = "Express";
+"days" = "3 Days";
+"price" = "$";
+"descriptionRegular" = "Delivery in 3 days. Lorem ipsum dolor sit amet, consectetur adipiscing elit.";
+
+"tracking" = "Tracking";
+"orderStatus" = "Order Status";
+"inDelivery" = "In Delivery";
+
+"liveTracking" = "Live Tracking";
+"from" = "From";
+"to" = "To";
+
+"addShipment" = "Add Shipment";
+"shippingFrom" = "Shipping From";
+"shippingTo" = "Shipping To";
+"next" = "Next";
+
+"parcel" = "Parcel";
+
+"shippmentName" = "Shippment Name";
+
+"deliveryOptions" = "Delivery Options";
+
+"continue" = "Continue";
+
+"sameDay" = "Same Day";
+
+"subTotal" = "Sub Total";
+
+"deliveredToServicePoint" = "Delivered To Service Point";
+
+"payment" = "Payment";
+
+
